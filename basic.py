@@ -1,0 +1,1 @@
+print("This is a print finction in python that outputs the texts into the console")
